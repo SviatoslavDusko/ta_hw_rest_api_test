@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import services.AuthorService;
 
 
-public class AuthorPositiveTests {
+public class AuthorPositiveTest {
     private final AuthorService authorService = new AuthorService();
 
     @Test

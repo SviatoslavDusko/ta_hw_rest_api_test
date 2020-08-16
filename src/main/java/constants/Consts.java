@@ -1,6 +1,6 @@
-package Const;
+package constants;
 
-public interface Constants {
+public interface Consts {
     String BASE_URL = "http://localhost:8080";
     String API_URL = "/api/library/";
     String ALL_AUTHORS_URL = "authors";
